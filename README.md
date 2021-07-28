@@ -15,11 +15,17 @@ Ahmad Amaan (Designer).
 
 GameDev Endterm Submission
 Week 1 Video Link - https://drive.google.com/file/d/182zgm8-TkBAwDppp8Qcq5B-kSoEJzh6Z/view?usp=sharing
+
 Week 1 Repo Link - https://github.com/harshkp20/evaluation-1
+
 Design Doc - https://docs.google.com/document/d/1_MS-n5uqsBxe1bGxIpY1_5wUywnfKccDKA1F0Ld_Y9g/edit
+
 App Build - https://drive.google.com/file/d/1GT9G8BTKLauyGrfFOgCvIMMMN5mMl3Qb/view
+
 Demo Video -
+
 My Work - 
+
 Enemy Player Health Bar
 Player Shoot
 Projectile and Powerup Buttons functioning
