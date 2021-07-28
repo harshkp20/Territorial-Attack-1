@@ -26,15 +26,15 @@ Demo Video -
 
 My Work - 
 
-Enemy Player Health Bar
-Player Shoot
-Projectile and Powerup Buttons functioning
-Enemy Movement
-Health damage due to hits
-Health Potion Powerup
-Controlling Force and Shooting by Touch Controls
-Enemy Cloning and Countdown Timer
-Removing bugs 
-Only “Adding” Animations and Audio
-Pause Menu
+Enemy Player Health Bar,
+Player Shoot,
+Projectile and Powerup Buttons functioning,
+Enemy Movement,
+Health damage due to hits,
+Health Potion Powerup,
+Controlling Force and Shooting by Touch Controls,
+Enemy Cloning and Countdown Timer,
+Removing bugs, 
+Only “Adding” Animations and Audio,
+Pause Menu.
 
