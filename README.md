@@ -13,7 +13,7 @@ Abhishek Mishra (Artist),
 Prasang Gupta (Programmer),
 Ahmad Amaan (Designer).
 
-GameDev Endterm Submission
+GameDev Endterm Submission by Harsh Kumar Pandey
 
 Week 1 Video Link - https://drive.google.com/file/d/182zgm8-TkBAwDppp8Qcq5B-kSoEJzh6Z/view?usp=sharing
 
